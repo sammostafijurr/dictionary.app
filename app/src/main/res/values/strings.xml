@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="search_your_word">search your word</string>
+    <string name="find_B">Find</string>
+    <string name="todo">25dp</string>
+    <string name="str_bal">My Defination</string>
+
+</resources>
